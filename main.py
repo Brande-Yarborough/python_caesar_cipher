@@ -4,6 +4,7 @@ import string
 message = 'Hello World'
 shift = 3
 alphabet = string.ascii_lowercase
+# do i need uppercase here also?
 
 FIRST_CHAR_CODE = 65
 LAST_CHAR_CODE = 90
